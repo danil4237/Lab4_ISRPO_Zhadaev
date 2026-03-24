@@ -2,8 +2,8 @@
 
 Console.WriteLine("Здравствуйте");
 Console.WriteLine("Жадаев Данил");
-Conwole.WriteLine("ИСП-232");
-Conwole.WriteLine($"Дата и время: {DateTime.Now}");
+Console.WriteLine("ИСП-232");
+Console.WriteLine($"Дата и время: {DateTime.Now}");
 
 string? choice;
 
