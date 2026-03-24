@@ -1,0 +1,5 @@
+C:\Users\Данил\Documents\Lab4_ISRPO_zhadaev\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данил\Documents\Lab4_ISRPO_zhadaev\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\Данил\Documents\Lab4_ISRPO_zhadaev\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\Данил\Documents\Lab4_ISRPO_zhadaev\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Данил\Documents\Lab4_ISRPO_zhadaev\server\obj\Debug\net10.0\server.sourcelink.json
